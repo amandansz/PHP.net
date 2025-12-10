@@ -1,4 +1,4 @@
-# 🚀 Hub de Conceitos Fundamentais em PHP
+#  Hub de Conceitos Fundamentais em PHP
 
 Este repositório serve como um **catálogo focado** de implementações em PHP, projetadas para demonstrar a aplicação sólida e eficaz de estruturas de controle de fluxo, manipulação de dados e features modernas da linguagem.
 
@@ -6,7 +6,7 @@ Ele reflete a proficiência em sintaxe e a capacidade de escrever código limpo 
 
 ---
 
-## 🎯 Projetos e Demonstrações de Proficiência
+## Projetos e Demonstrações de Proficiência
 
 Cada script é uma prova de conceito focada em um conjunto específico de funcionalidades.
 
